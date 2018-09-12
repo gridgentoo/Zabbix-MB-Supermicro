@@ -1,6 +1,6 @@
 # Описание
 ## Backup
-![alt text](https://img.alicdn.com/imgextra/i4/T1ux1mXbB0XXcQC8k._113240.jpg)
+![alt text](https://img.alicdn.com/imgextra/i4/T1ux1mXbB0XXcQC8k._113240.jpg)  
 Template HW Supermicro X8QB6 - темплейт для мониторинга серверов Supermicro X8QB6 по протоколу IPMI;
 
 Темплейты для выполнения резервного копирования.
